@@ -1,0 +1,516 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kalium\n"
+"POT-Creation-Date: 2020-06-02 12:49+0200\n"
+"PO-Revision-Date: 2015-07-10 10:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: Laborator <info@laborator.co>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: includes/libraries/class-tgm-plugin-activation.php\n"
+"X-Poedit-SearchPathExcluded-2: includes/libraries/smof\n"
+"X-Poedit-SearchPathExcluded-3: style.css\n"
+"X-Poedit-SearchPathExcluded-4: woocommerce\n"
+"X-Poedit-SearchPathExcluded-5: includes/libraries/laborator/importer/includes/"
+"plugins\n"
+"X-Poedit-SearchPathExcluded-6: theme-demo\n"
+"X-Poedit-SearchPathExcluded-7: includes/libraries/wpml-embedder\n"
+
+#: 404.php:30
+msgid "Not found!"
+msgstr ""
+
+#: 404.php:31
+#, php-format
+msgid ""
+"We’re sorry, the page you have looked for does not exist in our database! <br /> "
+"Perhaps you would like to go to our <a href=\"%s\">home page</a>?"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "1 Comment"
+msgid_plural "%d Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:23
+msgid "Join the discussion and tell us your opinion."
+msgstr ""
+
+#: comments.php:23
+msgid "Be the first to comment on this article."
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgid "%s Previous"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgid "Next %s"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:67
+msgid "Share your thoughts"
+msgstr ""
+
+#: comments.php:68
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:73
+msgid "Comment"
+msgstr ""
+
+#: includes/functions/blog-hook-functions.php:427
+#: includes/functions/template/woocommerce-template-functions.php:339
+msgid "Show more"
+msgstr ""
+
+#: includes/functions/blog-hook-functions.php:428
+msgid "All posts are shown"
+msgstr ""
+
+#: includes/functions/blog-hook-functions.php:764
+msgid "Older Post"
+msgstr ""
+
+#: includes/functions/blog-hook-functions.php:771
+msgid "Newer Post"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:45
+msgid "Category"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:50
+msgid "Tag"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:56
+msgid "Author"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:60
+msgid "Year"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:64
+#: includes/functions/template/blog-template-functions.php:68
+msgid "Month"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:97
+msgid "There are no posts to show"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:219
+msgid "Previous page"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:220
+msgid "Next page"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:310
+msgid "Loading posts..."
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:350
+msgid "Share:"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:614
+#, php-format
+msgctxt "comment submit date"
+msgid "%s at %s"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:651
+msgid "reply"
+msgstr ""
+
+#: includes/functions/template/blog-template-functions.php:672
+#, php-format
+msgid "In reply to: %s"
+msgstr ""
+
+#: includes/functions/template/core-template-functions.php:220
+#: includes/laborator_filters.php:150 includes/laborator_functions.php:87
+msgid "Email"
+msgstr ""
+
+#: includes/functions/template/header-template-functions.php:436
+msgid "Search"
+msgstr ""
+
+#: includes/functions/template/header-template-functions.php:504 searchform.php:19
+#: tpls/menu-mobile.php:59
+msgid "Search site..."
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:340
+msgid "No more products to show"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:997
+#, php-format
+msgid "%s out of 5"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1085
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1099
+msgid "Payment method"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1117
+msgid "Login or register"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1119
+msgid "Login"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1124
+msgid "Manage your account and see your orders"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1222
+msgid "Cart"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1327
+msgid "Share this item:"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1403
+msgid "My Orders"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1404
+msgid "Your recent orders are displayed in the table below."
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1419
+msgid "My Downloads"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1420
+msgid "Your digital downloads are displayed in the table below."
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1432
+msgid "View full size"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1562
+msgid "Out of stock"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1565
+msgid "Featured"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1568
+msgid "Sale!"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1581
+msgid "Edit information for this address type"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1591
+msgid "Addresses"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1605
+msgid "&laquo; Go back"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1620
+msgid "My account"
+msgstr ""
+
+#: includes/functions/template/woocommerce-template-functions.php:1621
+msgid "Edit your account details or change your password"
+msgstr ""
+
+#: includes/functions/woocommerce-functions.php:165
+msgid "(leave blank to leave unchanged)"
+msgstr ""
+
+#: includes/functions/woocommerce-functions.php:166
+msgid "Current password"
+msgstr ""
+
+#: includes/functions/woocommerce-hook-functions.php:192
+msgid "Added to cart"
+msgstr ""
+
+#: includes/functions/woocommerce-hook-functions.php:213
+#: templates/global/pagination-normal.php:21 tpls/portfolio-listing.php:113
+#: tpls/search-results.php:99
+msgid "Previous"
+msgstr ""
+
+#: includes/functions/woocommerce-hook-functions.php:214
+#: templates/global/pagination-normal.php:22 tpls/portfolio-listing.php:116
+#: tpls/search-results.php:100
+msgid "Next"
+msgstr ""
+
+#: includes/laborator_functions.php:86
+#, php-format
+msgid "Check out what I just spotted: %s"
+msgstr ""
+
+#: includes/laborator_functions.php:93
+msgid "Print"
+msgstr ""
+
+#: includes/laborator_portfolio.php:578
+msgid "Your browser does not support HTML5 video."
+msgstr ""
+
+#: includes/laborator_portfolio.php:904
+msgid "Show More"
+msgstr ""
+
+#: includes/laborator_portfolio.php:905
+msgid "No more portfolio items to show"
+msgstr ""
+
+#: includes/laborator_portfolio.php:1931
+#, php-format
+msgctxt "current portfolio subcategory"
+msgid "%s:"
+msgstr ""
+
+#: includes/libraries/post-link-plus.php:313
+msgid "Previous Post"
+msgstr ""
+
+#: includes/libraries/post-link-plus.php:313
+msgid "Next Post"
+msgstr ""
+
+#: includes/libraries/vc/custom-font-icons.php:30
+msgid "Icon"
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:161
+msgid "Captcha verification failed, please try again!"
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:190
+#, php-format
+msgctxt "contact form subject"
+msgid "[%s] New Contact Form message has been received."
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:197
+msgctxt "contact form"
+msgid "You have received new contact form message."
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:199
+msgctxt "contact form"
+msgid "----- Message Details -----"
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:216
+#, php-format
+msgctxt "contact form"
+msgid "This message has been sent from IP: %s"
+msgstr ""
+
+#: includes/libraries/vc/lab_contact_form/init.php:218
+#, php-format
+msgctxt "contact form"
+msgid "Site URL: %s"
+msgstr ""
+
+#: includes/libraries/vc/lab_products_carousel/init.php:245
+msgid "Loading products..."
+msgstr ""
+
+#: searchform.php:18 searchform.php:19
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:21 tpls/menu-mobile.php:65
+msgid "Go"
+msgstr ""
+
+#: templates/pages/coming-soon.php:44
+msgid "Days"
+msgstr ""
+
+#: templates/pages/coming-soon.php:45
+msgid "Day"
+msgstr ""
+
+#: templates/pages/coming-soon.php:50
+msgid "Hours"
+msgstr ""
+
+#: templates/pages/coming-soon.php:51
+msgid "Hour"
+msgstr ""
+
+#: templates/pages/coming-soon.php:56
+msgid "Minutes"
+msgstr ""
+
+#: templates/pages/coming-soon.php:57
+msgid "Minute"
+msgstr ""
+
+#: templates/pages/coming-soon.php:62
+msgid "Seconds"
+msgstr ""
+
+#: templates/pages/coming-soon.php:63
+msgid "Second"
+msgstr ""
+
+#: tpls/portfolio-listing-title.php:100
+msgid "All"
+msgstr ""
+
+#: tpls/portfolio-single-5.php:81
+msgid "Click here to show project info"
+msgstr ""
+
+#: tpls/portfolio-single-6.php:37
+msgid "Open in Lightbox"
+msgstr ""
+
+#: tpls/portfolio-single-like-share.php:55
+msgid "Share"
+msgstr ""
+
+#: tpls/portfolio-single-prevnext.php:72
+msgid "Previous project"
+msgstr ""
+
+#: tpls/portfolio-single-prevnext.php:73
+msgid "Next project"
+msgstr ""
+
+#: tpls/portfolio-single-prevnext.php:135
+msgid "Go to portfolio archive"
+msgstr ""
+
+#: tpls/search-results.php:24
+msgid "Click to change your search"
+msgstr ""
+
+#: tpls/search-results.php:30
+#, php-format
+msgid "%d results for “%s”"
+msgstr ""
+
+#: tpls/search-results.php:33
+#, php-format
+msgid "We have found one match with the word you searched."
+msgid_plural "We have found %d results with the word you searched."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tpls/search-results.php:35
+msgid "There is nothing found that matches your search criteria."
+msgstr ""
+
+#: tpls/search-results.php:81
+#, php-format
+msgid "Continue %s"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:20
+msgid "Loading cart contents..."
+msgstr ""
+
+#: tpls/wc-mini-cart.php:32
+#, php-format
+msgid "Your cart is empty! <a href=\"%s\">Go shopping &raquo;</a>"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:72
+msgid "Quantity"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:105
+msgid "View Cart"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:109
+msgid "Checkout"
+msgstr ""
+
+#: tpls/wc-mini-cart.php:115
+msgid "Subtotal"
+msgstr ""
+
+#: vc_templates/lab_blog_posts.php:228
+msgid "Loading blog posts..."
+msgstr ""
+
+#: vc_templates/lab_contact_form.php:54
+msgid "Please fill \"%\" field."
+msgstr ""
+
+#: vc_templates/lab_contact_form.php:54
+msgid "You must check privacy policy checkbox in order to submit the form."
+msgstr ""
+
+#: vc_templates/lab_message.php:57
+msgid "Close"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Kalium"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://kaliumtheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Start creating that amazing website that you have always wanted, only with Kalium "
+"&mdash; Connect with Laborator on: <a href=\"https://themeforest.net/user/laborator"
+"\">Envato</a> &bull; <a href=\"https://twitter.com/thelaborator\">Twitter</a> "
+"&bull; <a href=\"https://www.facebook.com/laboratorcreative\">Facebook</a> &bull; "
+"<a href=\"https://www.instagram.com/laboratorcreative/\">Instagram</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Laborator"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://laborator.co/"
+msgstr ""

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Blog Posts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="12" height="9" rx="1"></rect>
+        <rect id="path-3" x="0" y="0" width="12" height="9" rx="1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blog-Posts">
+            <rect id="Rectangle-17" fill="#ECECEC" x="0" y="0" width="32" height="15" rx="1"></rect>
+            <rect id="Rectangle-17" fill="#ECECEC" x="0" y="17" width="32" height="15" rx="1"></rect>
+            <g id="Group-2" transform="translate(3.000000, 3.000000)">
+                <g id="element-icon-single-image">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#D8D8D8" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(-1.090909, -1.125000)">
+                            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#91BFF4" x="0" y="0" width="14.1818182" height="15.75"></rect>
+                            <path d="M11.4593356,15.75 L1.34138341,15.75 C0.60055781,15.75 0,14.9945737 0,14.0536786 L0,11.8991421 L4.56596153,6.125 L11.8181818,15.296201 L11.4593356,15.75 Z" id="Combined-Shape" stroke="none" fill="#40915A"></path>
+                            <path d="M14.1818182,9.6507576 L14.1818182,14.2519499 C14.1818182,15.0793001 13.580438,15.75 12.8314097,15.75 L1.10912036,15.75 C0.998423918,15.75 0.890838335,15.7353032 0.787878788,15.7075555 L10.214781,5.25 L14.1818182,9.6507576 Z" id="Combined-Shape" stroke="none" fill="#4CAD6B"></path>
+                            <rect id="Rectangle-10" stroke="none" fill="#FFC90F" x="2.36363636" y="2.625" width="2.36363636" height="2.625" rx="1.18181818"></rect>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-11" fill="#4A4A4A" x="15" y="2" width="5" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-11-Copy" fill="#4A4A4A" x="15" y="5" width="11" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-11-Copy-2" fill="#4A4A4A" x="15" y="7" width="11" height="1" rx="0.5"></rect>
+            </g>
+            <g id="Group-2-Copy" transform="translate(3.000000, 20.000000)">
+                <g id="element-icon-single-image">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#D8D8D8" xlink:href="#path-3"></use>
+                    <g mask="url(#mask-4)" fill-rule="nonzero">
+                        <g transform="translate(-1.090909, -1.125000)">
+                            <rect id="Rectangle" stroke="#979797" stroke-width="1" fill="#91BFF4" x="0" y="0" width="14.1818182" height="15.75"></rect>
+                            <path d="M11.4593356,15.75 L1.34138341,15.75 C0.60055781,15.75 0,14.9945737 0,14.0536786 L0,11.8991421 L4.56596153,6.125 L11.8181818,15.296201 L11.4593356,15.75 Z" id="Combined-Shape" stroke="none" fill="#40915A"></path>
+                            <path d="M14.1818182,9.6507576 L14.1818182,14.2519499 C14.1818182,15.0793001 13.580438,15.75 12.8314097,15.75 L1.10912036,15.75 C0.998423918,15.75 0.890838335,15.7353032 0.787878788,15.7075555 L10.214781,5.25 L14.1818182,9.6507576 Z" id="Combined-Shape" stroke="none" fill="#4CAD6B"></path>
+                            <rect id="Rectangle-10" stroke="none" fill="#FFC90F" x="2.36363636" y="2.625" width="2.36363636" height="2.625" rx="1.18181818"></rect>
+                        </g>
+                    </g>
+                </g>
+                <rect id="Rectangle-11" fill="#4A4A4A" x="15" y="2" width="5" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-11-Copy" fill="#4A4A4A" x="15" y="5" width="11" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-11-Copy-2" fill="#4A4A4A" x="15" y="7" width="11" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

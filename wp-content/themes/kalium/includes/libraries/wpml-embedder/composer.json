@@ -1,0 +1,5 @@
+{
+    "require": {
+        "otgs/installer": "^2.3"
+    }
+}

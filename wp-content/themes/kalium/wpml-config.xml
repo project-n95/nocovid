@@ -1,0 +1,147 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_kalium">
+            <key name="logo_text"/>
+            <key name="footer_text"/>
+            <key name="footer_text_right"/>
+            <key name="menu_hamburger_custom_label_text"/>
+            <key name="menu_hamburger_custom_label_close_text"/>
+            <key name="user_custom_js_head"/>
+            <key name="user_custom_js"/>
+            <key name="blog_title"/>
+            <key name="blog_description"/>
+            <key name="portfolio_title"/>
+            <key name="portfolio_description"/>
+            <key name="coming_soon_mode_title"/>
+            <key name="coming_soon_mode_description"/>
+            <key name="maintenance_mode_title"/>
+            <key name="maintenance_mode_description"/>
+            <key name="portfolio_archive_url"/>
+        </key>
+    </admin-texts>
+    <shortcodes>
+        <shortcode>
+            <tag>lab_portfolio_items</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute encoding="allow_html_tags">description</attribute>
+                <attribute encoding="vc_link">more_link</attribute>
+                <attribute>endless_show_more_button_text</attribute>
+                <attribute>endless_no_more_items_button_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_masonry_portfolio</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute encoding="allow_html_tags">description</attribute>
+                <attribute encoding="vc_link">more_link</attribute>
+                <attribute>endless_show_more_button_text</attribute>
+                <attribute>endless_no_more_items_button_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_dribbble_gallery</tag>
+            <attributes>
+                <attribute encoding="vc_link">more_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_team_members_member</tag>
+            <attributes>
+                <attribute>name</attribute>
+                <attribute>sub_title</attribute>
+                <attribute encoding="allow_html_tags">description</attribute>
+                <attribute encoding="vc_link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_service_box_content</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute encoding="allow_html_tags">description</attribute>
+                <attribute encoding="vc_link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_heading</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_scroll_box</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">content</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_clients_entry</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute encoding="allow_html_tags">description</attribute>
+                <attribute encoding="vc_link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_message</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">message</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_button</tag>
+            <attributes>
+                <attribute>title</attribute>
+                <attribute encoding="vc_link">link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_contact_form</tag>
+            <attributes>
+                <attribute>name_title</attribute>
+                <attribute>email_title</attribute>
+                <attribute>message_title</attribute>
+                <attribute>subject_title</attribute>
+                <attribute>privacy_policy_text</attribute>
+                <attribute>submit_title</attribute>
+                <attribute>submit_success</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_google_map_location</tag>
+            <attributes>
+                <attribute>marker_title</attribute>
+                <attribute encoding="allow_html_tags">marker_description</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_text_autotype</tag>
+            <attributes>
+                <attribute encoding="allow_html_tags">typed_text</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_blog_posts</tag>
+            <attributes>
+                <attribute encoding="vc_link">more_link</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_divider</tag>
+            <attributes>
+                <attribute>title</attribute>
+            </attributes>
+        </shortcode>
+        <shortcode>
+            <tag>lab_pricing_table</tag>
+            <attributes>
+                <attribute>plan_price</attribute>
+                <attribute>plan_description</attribute>
+                <attribute>title</attribute>
+                <attribute>plan_features</attribute>
+                <attribute encoding="vc_link">purchase_link</attribute>
+            </attributes>
+        </shortcode>
+    </shortcodes>
+</wpml-config>

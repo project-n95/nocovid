@@ -1,0 +1,2310 @@
+[INFO]-[2020/04/10 12:41:47] Cloning: staging's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 12:41:47] Cloning: staging's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:41:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:41:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:41:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:41:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:41:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:41:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:41:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:41:50] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:41:50] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:50] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:41:50] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:50] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:41:50] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:41:51] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:51] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:41:51] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:52] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:41:52] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:41:52] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:41:52] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:52] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:41:52] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:55] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:41:55] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:55] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:41:55] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:55] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:41:55] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:55] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:41:55] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:56] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:41:56] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:56] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:41:56] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:56] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:41:56] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:41:57] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:41:58] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:41:58] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:58] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:41:58] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:58] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:41:58] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:41:59] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:41:59] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:59] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:41:59] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:41:59] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:41:59] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:42:00] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:42:00] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:42:00] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:00] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:42:00] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:01] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:42:01] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:01] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:42:01] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:42:02] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:42:02] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:42:02] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:02] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:42:02] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:03] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:42:03] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:03] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:42:03] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:03] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:42:03] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[INFO]-[2020/04/10 12:42:03] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:42:03] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:05] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[INFO]-[2020/04/10 12:42:05] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:05] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:42:05] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:42:06] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[INFO]-[2020/04/10 12:42:06] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:07] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[INFO]-[2020/04/10 12:42:07] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:08] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:42:08] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:09] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:42:09] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:42:10] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:42:10] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:42:10] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:42:10] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:42:11] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:42:11] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:42:11] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[INFO]-[2020/04/10 12:42:11] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:13] DB Search & Replace:  Table wp65_revslider_sliders 0 to 5000 records
+[INFO]-[2020/04/10 12:42:13] DB Search & Replace:  Table wp65_revslider_sliders 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:14] DB Search & Replace:  Table wp65_revslider_slides 0 to 5000 records
+[INFO]-[2020/04/10 12:42:14] DB Search & Replace:  Table wp65_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:15] DB Search & Replace:  Table wp65_revslider_static_slides 0 to 5000 records
+[INFO]-[2020/04/10 12:42:15] DB Search & Replace:  Table wp65_revslider_static_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:16] DB Search & Replace:  Table wp65_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 12:42:16] DB Search & Replace:  Table wp65_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 12:42:16] DB Search & Replace:  Table wp65_term_taxonomy 0 to 5000 records
+[INFO]-[2020/04/10 12:42:16] DB Search & Replace:  Table wp65_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:17] DB Search & Replace:  Table wp65_terms 0 to 5000 records
+[INFO]-[2020/04/10 12:42:17] DB Search & Replace:  Table wp65_terms 0 to 5000 records
+[INFO]-[2020/04/10 12:42:17] DB Search & Replace:  Table wp65_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 12:42:17] DB Search & Replace:  Table wp65_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 12:42:18] DB Search & Replace:  Table wp65_users 0 to 5000 records
+[INFO]-[2020/04/10 12:42:18] DB Search & Replace:  Table wp65_users 0 to 5000 records
+[INFO]-[2020/04/10 12:42:18] DB Search & Replace:  Table wp65_wpforms_tasks_meta 0 to 5000 records
+[INFO]-[2020/04/10 12:42:18] DB Search & Replace:  Table wp65_wpforms_tasks_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:42:19] Scanning / for files
+[INFO]-[2020/04/10 12:42:19] Scanning / for files
+[INFO]-[2020/04/10 12:42:19] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:42:19] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:42:20] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:42:20] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:42:20] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:42:20] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:42:21] Copying files...
+[INFO]-[2020/04/10 12:42:21] Total 50 files processed
+[INFO]-[2020/04/10 12:42:21] Copying files...
+[INFO]-[2020/04/10 12:42:21] Total 50 files processed
+[INFO]-[2020/04/10 12:42:22] Total 100 files processed
+[INFO]-[2020/04/10 12:42:22] Total 100 files processed
+[INFO]-[2020/04/10 12:42:22] Total 150 files processed
+[INFO]-[2020/04/10 12:42:22] Total 150 files processed
+[INFO]-[2020/04/10 12:42:22] Total 200 files processed
+[INFO]-[2020/04/10 12:42:22] Total 200 files processed
+[INFO]-[2020/04/10 12:42:23] Total 250 files processed
+[INFO]-[2020/04/10 12:42:23] Total 250 files processed
+[INFO]-[2020/04/10 12:42:23] Total 300 files processed
+[INFO]-[2020/04/10 12:42:23] Total 300 files processed
+[INFO]-[2020/04/10 12:42:24] Total 350 files processed
+[INFO]-[2020/04/10 12:42:24] Total 350 files processed
+[INFO]-[2020/04/10 12:42:24] Total 400 files processed
+[INFO]-[2020/04/10 12:42:24] Total 400 files processed
+[INFO]-[2020/04/10 12:42:24] Total 450 files processed
+[INFO]-[2020/04/10 12:42:24] Total 450 files processed
+[INFO]-[2020/04/10 12:42:25] Total 500 files processed
+[INFO]-[2020/04/10 12:42:25] Total 500 files processed
+[INFO]-[2020/04/10 12:42:25] Total 550 files processed
+[INFO]-[2020/04/10 12:42:25] Total 550 files processed
+[INFO]-[2020/04/10 12:42:26] Total 600 files processed
+[INFO]-[2020/04/10 12:42:26] Total 600 files processed
+[INFO]-[2020/04/10 12:42:26] Total 650 files processed
+[INFO]-[2020/04/10 12:42:26] Total 650 files processed
+[INFO]-[2020/04/10 12:42:26] Total 700 files processed
+[INFO]-[2020/04/10 12:42:26] Total 700 files processed
+[INFO]-[2020/04/10 12:42:27] Total 750 files processed
+[INFO]-[2020/04/10 12:42:27] Total 750 files processed
+[INFO]-[2020/04/10 12:42:27] Total 800 files processed
+[INFO]-[2020/04/10 12:42:27] Total 800 files processed
+[INFO]-[2020/04/10 12:42:28] Total 850 files processed
+[INFO]-[2020/04/10 12:42:28] Total 850 files processed
+[INFO]-[2020/04/10 12:42:28] Total 900 files processed
+[INFO]-[2020/04/10 12:42:28] Total 900 files processed
+[INFO]-[2020/04/10 12:42:29] Total 950 files processed
+[INFO]-[2020/04/10 12:42:29] Total 950 files processed
+[INFO]-[2020/04/10 12:42:29] Total 1000 files processed
+[INFO]-[2020/04/10 12:42:29] Total 1000 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1050 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1050 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1100 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1100 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1150 files processed
+[INFO]-[2020/04/10 12:42:30] Total 1150 files processed
+[INFO]-[2020/04/10 12:42:31] Total 1200 files processed
+[INFO]-[2020/04/10 12:42:31] Total 1200 files processed
+[INFO]-[2020/04/10 12:42:31] Total 1250 files processed
+[INFO]-[2020/04/10 12:42:31] Total 1250 files processed
+[INFO]-[2020/04/10 12:42:32] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/public_html/staging/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:42:32] Total 1300 files processed
+[INFO]-[2020/04/10 12:42:32] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/public_html/staging/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:42:32] Total 1300 files processed
+[INFO]-[2020/04/10 12:42:32] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/public_html/staging/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:42:32] Total 1350 files processed
+[INFO]-[2020/04/10 12:42:32] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/public_html/staging/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:42:32] Total 1350 files processed
+[INFO]-[2020/04/10 12:42:33] Total 1400 files processed
+[INFO]-[2020/04/10 12:42:33] Total 1400 files processed
+[INFO]-[2020/04/10 12:42:33] Total 1450 files processed
+[INFO]-[2020/04/10 12:42:33] Total 1450 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1500 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1500 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1550 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1550 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1600 files processed
+[INFO]-[2020/04/10 12:42:34] Total 1600 files processed
+[INFO]-[2020/04/10 12:42:35] Total 1650 files processed
+[INFO]-[2020/04/10 12:42:35] Total 1650 files processed
+[INFO]-[2020/04/10 12:42:35] Total 1700 files processed
+[INFO]-[2020/04/10 12:42:35] Total 1700 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1750 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1750 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1800 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1800 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1850 files processed
+[INFO]-[2020/04/10 12:42:36] Total 1850 files processed
+[INFO]-[2020/04/10 12:42:37] Total 1900 files processed
+[INFO]-[2020/04/10 12:42:37] Total 1900 files processed
+[INFO]-[2020/04/10 12:42:37] Total 1950 files processed
+[INFO]-[2020/04/10 12:42:37] Total 1950 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2000 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2000 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2050 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2050 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2100 files processed
+[INFO]-[2020/04/10 12:42:38] Total 2100 files processed
+[INFO]-[2020/04/10 12:42:39] Total 2150 files processed
+[INFO]-[2020/04/10 12:42:39] Total 2150 files processed
+[INFO]-[2020/04/10 12:42:39] Total 2200 files processed
+[INFO]-[2020/04/10 12:42:39] Total 2200 files processed
+[INFO]-[2020/04/10 12:42:40] Total 2250 files processed
+[INFO]-[2020/04/10 12:42:40] Total 2250 files processed
+[INFO]-[2020/04/10 12:42:40] Total 2300 files processed
+[INFO]-[2020/04/10 12:42:40] Total 2300 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2350 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2350 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2400 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2400 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2450 files processed
+[INFO]-[2020/04/10 12:42:41] Total 2450 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2500 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2500 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2550 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2550 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2600 files processed
+[INFO]-[2020/04/10 12:42:42] Total 2600 files processed
+[INFO]-[2020/04/10 12:42:43] Total 2650 files processed
+[INFO]-[2020/04/10 12:42:43] Total 2650 files processed
+[INFO]-[2020/04/10 12:42:43] Total 2700 files processed
+[INFO]-[2020/04/10 12:42:43] Total 2700 files processed
+[INFO]-[2020/04/10 12:42:44] Total 2750 files processed
+[INFO]-[2020/04/10 12:42:44] Total 2750 files processed
+[INFO]-[2020/04/10 12:42:44] Total 2800 files processed
+[INFO]-[2020/04/10 12:42:44] Total 2800 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2850 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2850 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2900 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2900 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2950 files processed
+[INFO]-[2020/04/10 12:42:45] Total 2950 files processed
+[INFO]-[2020/04/10 12:42:46] Total 3000 files processed
+[INFO]-[2020/04/10 12:42:46] Total 3000 files processed
+[INFO]-[2020/04/10 12:42:46] Total 3050 files processed
+[INFO]-[2020/04/10 12:42:46] Total 3050 files processed
+[INFO]-[2020/04/10 12:42:47] Total 3100 files processed
+[INFO]-[2020/04/10 12:42:47] Total 3100 files processed
+[INFO]-[2020/04/10 12:42:47] Total 3150 files processed
+[INFO]-[2020/04/10 12:42:47] Total 3150 files processed
+[INFO]-[2020/04/10 12:42:48] Total 3200 files processed
+[INFO]-[2020/04/10 12:42:48] Total 3200 files processed
+[INFO]-[2020/04/10 12:42:48] Total 3250 files processed
+[INFO]-[2020/04/10 12:42:48] Total 3250 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3300 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3300 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3350 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3350 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3400 files processed
+[INFO]-[2020/04/10 12:42:49] Total 3400 files processed
+[INFO]-[2020/04/10 12:42:50] Total 3450 files processed
+[INFO]-[2020/04/10 12:42:50] Total 3450 files processed
+[INFO]-[2020/04/10 12:42:51] Total 3500 files processed
+[INFO]-[2020/04/10 12:42:51] Total 3500 files processed
+[INFO]-[2020/04/10 12:42:51] Total 3550 files processed
+[INFO]-[2020/04/10 12:42:51] Total 3550 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3600 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3600 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3650 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3650 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3700 files processed
+[INFO]-[2020/04/10 12:42:52] Total 3700 files processed
+[INFO]-[2020/04/10 12:42:53] Total 3750 files processed
+[INFO]-[2020/04/10 12:42:53] Total 3750 files processed
+[INFO]-[2020/04/10 12:42:54] Total 3800 files processed
+[INFO]-[2020/04/10 12:42:54] Total 3800 files processed
+[INFO]-[2020/04/10 12:42:54] Total 3850 files processed
+[INFO]-[2020/04/10 12:42:54] Total 3850 files processed
+[INFO]-[2020/04/10 12:42:55] Total 3900 files processed
+[INFO]-[2020/04/10 12:42:55] Total 3900 files processed
+[INFO]-[2020/04/10 12:42:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:42:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:42:56] Total 4000 files processed
+[INFO]-[2020/04/10 12:42:56] Total 4000 files processed
+[INFO]-[2020/04/10 12:42:56] Total 4050 files processed
+[INFO]-[2020/04/10 12:42:56] Total 4050 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4100 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4100 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4150 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4150 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4200 files processed
+[INFO]-[2020/04/10 12:42:57] Total 4200 files processed
+[INFO]-[2020/04/10 12:42:58] Total 4250 files processed
+[INFO]-[2020/04/10 12:42:58] Total 4250 files processed
+[INFO]-[2020/04/10 12:42:58] Total 4300 files processed
+[INFO]-[2020/04/10 12:42:58] Total 4300 files processed
+[INFO]-[2020/04/10 12:42:59] Total 4350 files processed
+[INFO]-[2020/04/10 12:42:59] Total 4350 files processed
+[INFO]-[2020/04/10 12:42:59] Total 4400 files processed
+[INFO]-[2020/04/10 12:42:59] Total 4400 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4450 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4450 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4500 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4500 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4550 files processed
+[INFO]-[2020/04/10 12:43:00] Total 4550 files processed
+[INFO]-[2020/04/10 12:43:01] Total 4600 files processed
+[INFO]-[2020/04/10 12:43:01] Total 4600 files processed
+[INFO]-[2020/04/10 12:43:01] Total 4650 files processed
+[INFO]-[2020/04/10 12:43:01] Total 4650 files processed
+[INFO]-[2020/04/10 12:43:02] Total 4700 files processed
+[INFO]-[2020/04/10 12:43:02] Total 4700 files processed
+[INFO]-[2020/04/10 12:43:02] Total 4750 files processed
+[INFO]-[2020/04/10 12:43:02] Total 4750 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4800 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4800 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4850 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4850 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4900 files processed
+[INFO]-[2020/04/10 12:43:03] Total 4900 files processed
+[INFO]-[2020/04/10 12:43:04] Total 4950 files processed
+[INFO]-[2020/04/10 12:43:04] Total 4950 files processed
+[INFO]-[2020/04/10 12:43:04] Total 5000 files processed
+[INFO]-[2020/04/10 12:43:04] Total 5000 files processed
+[INFO]-[2020/04/10 12:43:05] Total 5050 files processed
+[INFO]-[2020/04/10 12:43:05] Total 5050 files processed
+[INFO]-[2020/04/10 12:43:05] Total 5100 files processed
+[INFO]-[2020/04/10 12:43:05] Total 5100 files processed
+[INFO]-[2020/04/10 12:43:06] Total 5150 files processed
+[INFO]-[2020/04/10 12:43:06] Total 5150 files processed
+[INFO]-[2020/04/10 12:43:06] Total 5200 files processed
+[INFO]-[2020/04/10 12:43:06] Total 5200 files processed
+[INFO]-[2020/04/10 12:43:07] Total 5250 files processed
+[INFO]-[2020/04/10 12:43:07] Total 5250 files processed
+[INFO]-[2020/04/10 12:43:07] Total 5300 files processed
+[INFO]-[2020/04/10 12:43:07] Total 5300 files processed
+[INFO]-[2020/04/10 12:43:08] Total 5350 files processed
+[INFO]-[2020/04/10 12:43:08] Total 5350 files processed
+[INFO]-[2020/04/10 12:43:08] Total 5400 files processed
+[INFO]-[2020/04/10 12:43:08] Total 5400 files processed
+[INFO]-[2020/04/10 12:43:09] Total 5450 files processed
+[INFO]-[2020/04/10 12:43:09] Total 5450 files processed
+[INFO]-[2020/04/10 12:43:09] Total 5500 files processed
+[INFO]-[2020/04/10 12:43:09] Total 5500 files processed
+[INFO]-[2020/04/10 12:43:10] Total 5550 files processed
+[INFO]-[2020/04/10 12:43:10] Total 5550 files processed
+[INFO]-[2020/04/10 12:43:10] Total 5600 files processed
+[INFO]-[2020/04/10 12:43:10] Total 5600 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5650 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5650 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5700 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5700 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5750 files processed
+[INFO]-[2020/04/10 12:43:11] Total 5750 files processed
+[INFO]-[2020/04/10 12:43:12] Total 5800 files processed
+[INFO]-[2020/04/10 12:43:12] Total 5800 files processed
+[INFO]-[2020/04/10 12:43:12] Total 5850 files processed
+[INFO]-[2020/04/10 12:43:12] Total 5850 files processed
+[INFO]-[2020/04/10 12:43:13] Total 5900 files processed
+[INFO]-[2020/04/10 12:43:13] Total 5900 files processed
+[INFO]-[2020/04/10 12:43:13] Total 5950 files processed
+[INFO]-[2020/04/10 12:43:13] Total 5950 files processed
+[INFO]-[2020/04/10 12:43:13] Total 6000 files processed
+[INFO]-[2020/04/10 12:43:13] Total 6000 files processed
+[INFO]-[2020/04/10 12:43:14] Total 6050 files processed
+[INFO]-[2020/04/10 12:43:14] Total 6050 files processed
+[INFO]-[2020/04/10 12:43:14] Total 6100 files processed
+[INFO]-[2020/04/10 12:43:14] Total 6100 files processed
+[INFO]-[2020/04/10 12:43:15] Total 6150 files processed
+[INFO]-[2020/04/10 12:43:15] Total 6150 files processed
+[INFO]-[2020/04/10 12:43:15] Total 6200 files processed
+[INFO]-[2020/04/10 12:43:15] Total 6200 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6250 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6250 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6300 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6300 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6350 files processed
+[INFO]-[2020/04/10 12:43:16] Total 6350 files processed
+[INFO]-[2020/04/10 12:43:17] Total 6400 files processed
+[INFO]-[2020/04/10 12:43:17] Total 6400 files processed
+[INFO]-[2020/04/10 12:43:17] Total 6450 files processed
+[INFO]-[2020/04/10 12:43:17] Total 6450 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6500 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6500 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6550 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6550 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6600 files processed
+[INFO]-[2020/04/10 12:43:18] Total 6600 files processed
+[INFO]-[2020/04/10 12:43:19] Total 6650 files processed
+[INFO]-[2020/04/10 12:43:19] Total 6650 files processed
+[INFO]-[2020/04/10 12:43:19] Total 6700 files processed
+[INFO]-[2020/04/10 12:43:19] Total 6700 files processed
+[INFO]-[2020/04/10 12:43:20] Total 6750 files processed
+[INFO]-[2020/04/10 12:43:20] Total 6750 files processed
+[INFO]-[2020/04/10 12:43:20] Total 6800 files processed
+[INFO]-[2020/04/10 12:43:20] Total 6800 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6850 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6850 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6900 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6900 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6950 files processed
+[INFO]-[2020/04/10 12:43:21] Total 6950 files processed
+[INFO]-[2020/04/10 12:43:22] Total 7000 files processed
+[INFO]-[2020/04/10 12:43:22] Total 7000 files processed
+[INFO]-[2020/04/10 12:43:22] Total 7050 files processed
+[INFO]-[2020/04/10 12:43:22] Total 7050 files processed
+[INFO]-[2020/04/10 12:43:23] Total 7100 files processed
+[INFO]-[2020/04/10 12:43:23] Total 7100 files processed
+[INFO]-[2020/04/10 12:43:23] Total 7150 files processed
+[INFO]-[2020/04/10 12:43:23] Total 7150 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7200 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7200 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7250 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7250 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7300 files processed
+[INFO]-[2020/04/10 12:43:24] Total 7300 files processed
+[INFO]-[2020/04/10 12:43:25] Total 7350 files processed
+[INFO]-[2020/04/10 12:43:25] Total 7350 files processed
+[INFO]-[2020/04/10 12:43:25] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map -> /home/nocovidcrna6678/public_html/staging/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map
+[INFO]-[2020/04/10 12:43:25] Total 7400 files processed
+[INFO]-[2020/04/10 12:43:25] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map -> /home/nocovidcrna6678/public_html/staging/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map
+[INFO]-[2020/04/10 12:43:25] Total 7400 files processed
+[INFO]-[2020/04/10 12:43:26] Total 7450 files processed
+[INFO]-[2020/04/10 12:43:26] Total 7450 files processed
+[INFO]-[2020/04/10 12:43:26] Total 7500 files processed
+[INFO]-[2020/04/10 12:43:26] Total 7500 files processed
+[INFO]-[2020/04/10 12:43:27] Total 7550 files processed
+[INFO]-[2020/04/10 12:43:27] Total 7550 files processed
+[INFO]-[2020/04/10 12:43:27] Total 7600 files processed
+[INFO]-[2020/04/10 12:43:27] Total 7600 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7650 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7650 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7700 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7700 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7750 files processed
+[INFO]-[2020/04/10 12:43:28] Total 7750 files processed
+[INFO]-[2020/04/10 12:43:29] Total 7800 files processed
+[INFO]-[2020/04/10 12:43:29] Total 7800 files processed
+[INFO]-[2020/04/10 12:43:29] Total 7850 files processed
+[INFO]-[2020/04/10 12:43:29] Total 7850 files processed
+[INFO]-[2020/04/10 12:43:30] Total 7900 files processed
+[INFO]-[2020/04/10 12:43:30] Total 7900 files processed
+[INFO]-[2020/04/10 12:43:30] Total 7950 files processed
+[INFO]-[2020/04/10 12:43:30] Total 7950 files processed
+[INFO]-[2020/04/10 12:43:30] Total 8000 files processed
+[INFO]-[2020/04/10 12:43:30] Total 8000 files processed
+[INFO]-[2020/04/10 12:43:31] Total 8050 files processed
+[INFO]-[2020/04/10 12:43:31] Total 8050 files processed
+[INFO]-[2020/04/10 12:43:31] Total 8100 files processed
+[INFO]-[2020/04/10 12:43:31] Total 8100 files processed
+[INFO]-[2020/04/10 12:43:32] Total 8150 files processed
+[INFO]-[2020/04/10 12:43:32] Total 8150 files processed
+[INFO]-[2020/04/10 12:43:32] Total 8200 files processed
+[INFO]-[2020/04/10 12:43:32] Total 8200 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8250 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8250 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8300 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8300 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8350 files processed
+[INFO]-[2020/04/10 12:43:33] Total 8350 files processed
+[INFO]-[2020/04/10 12:43:34] Total 8400 files processed
+[INFO]-[2020/04/10 12:43:34] Total 8400 files processed
+[INFO]-[2020/04/10 12:43:34] Total 8450 files processed
+[INFO]-[2020/04/10 12:43:34] Total 8450 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8500 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8500 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8550 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8550 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8600 files processed
+[INFO]-[2020/04/10 12:43:35] Total 8600 files processed
+[INFO]-[2020/04/10 12:43:36] Total 8650 files processed
+[INFO]-[2020/04/10 12:43:36] Total 8650 files processed
+[INFO]-[2020/04/10 12:43:36] Total 8700 files processed
+[INFO]-[2020/04/10 12:43:36] Total 8700 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8750 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8750 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8800 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8800 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8850 files processed
+[INFO]-[2020/04/10 12:43:37] Total 8850 files processed
+[INFO]-[2020/04/10 12:43:38] Total 8900 files processed
+[INFO]-[2020/04/10 12:43:38] Total 8900 files processed
+[INFO]-[2020/04/10 12:43:38] Total 8950 files processed
+[INFO]-[2020/04/10 12:43:38] Total 8950 files processed
+[INFO]-[2020/04/10 12:43:39] Total 9000 files processed
+[INFO]-[2020/04/10 12:43:39] Total 9000 files processed
+[INFO]-[2020/04/10 12:43:39] Total 9050 files processed
+[INFO]-[2020/04/10 12:43:39] Total 9050 files processed
+[INFO]-[2020/04/10 12:43:39] Copying files finished
+[INFO]-[2020/04/10 12:43:39] Copying files finished
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step1: Updating siteurl and homeurl in wp65_options 
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step1: Updating siteurl and homeurl to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step1: Updating siteurl and homeurl in wp65_options 
+[INFO]-[2020/04/10 12:43:40] Preparing Data Step1: Updating siteurl and homeurl to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wp65_options 
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step2: Updating row wpstg_is_staging_site in wp65_options 
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step3: Updating rewrite_rules in wp65_options 
+[INFO]-[2020/04/10 12:43:41] Preparing Data Step3: Updating rewrite_rules in wp65_options 
+[INFO]-[2020/04/10 12:43:42] Preparing Data Step4: Updating db prefix in wp65_usermeta. 
+[INFO]-[2020/04/10 12:43:42] Preparing Data Step4: Updating db prefix in wp65_usermeta. 
+[INFO]-[2020/04/10 12:43:42] Preparing Data Step5: Updating table_prefix in /home/nocovidcrna6678/public_html/staging/wp-config.php to wp65_
+[INFO]-[2020/04/10 12:43:42] Preparing Data Step5: Updating table_prefix in /home/nocovidcrna6678/public_html/staging/wp-config.php to wp65_
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wp65_options 
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wp65_options 
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step8: Updating permalink_structure in wp65_options 
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step8: Updating permalink_structure in wp65_options 
+[INFO]-[2020/04/10 12:43:43] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:44] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://nocovid.us/staging
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step12: Updating db prefix in wp65_options.
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step12: Skipped
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step12: Updating db prefix in wp65_options.
+[INFO]-[2020/04/10 12:43:45] Preparing Data Step12: Skipped
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step13: Updating upload_path wp65_options.
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step13: Updating upload_path wp65_options.
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step15: Change database credentials in wp-config.php
+[INFO]-[2020/04/10 12:43:46] Preparing Data: Finished Step 15 successfully
+[INFO]-[2020/04/10 12:43:46] Preparing Data Step15: Change database credentials in wp-config.php
+[INFO]-[2020/04/10 12:43:46] Preparing Data: Finished Step 15 successfully
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step16: Remove UPLOADS in wp-config.php
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step16: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step 16: Finished successfully
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step16: Remove UPLOADS in wp-config.php
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step16: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step 16: Finished successfully
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: Finished successfully
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 12:43:47] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:43:48] Preparing Data Step20: Preserve Data in wp65_options
+[INFO]-[2020/04/10 12:43:48] Preparing Data Step20: Successful!
+[INFO]-[2020/04/10 12:43:48] Preparing Data Step20: Preserve Data in wp65_options
+[INFO]-[2020/04/10 12:43:48] Preparing Data Step20: Successful!
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:43:49] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 12:43:49] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 12:43:49] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 12:43:49] Finish: The job finished!
+[INFO]-[2020/04/10 12:43:49] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 12:43:49] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 12:43:49] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 12:43:49] Finish: The job finished!
+[INFO]-[2020/04/10 12:52:59] Cloning: staging's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 12:52:59] Cloning: staging's clone job's data is not in database, generating data
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_actionscheduler_actions already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_actionscheduler_actions already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_actionscheduler_claims already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_actionscheduler_claims already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_commentmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_commentmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_links already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_links already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:45] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:45] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:45] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:53:46] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:47] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:48] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:53:48] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:53:48] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:46] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:47] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:53:47] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_revslider_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[INFO]-[2020/04/10 12:53:49] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:53:49] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:53:49] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:50] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[INFO]-[2020/04/10 12:53:51] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:53:51] Scanning / for files
+[INFO]-[2020/04/10 12:53:51] Scanning / for files
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:53:51] Copying files...
+[INFO]-[2020/04/10 12:53:51] Total 50 files processed
+[INFO]-[2020/04/10 12:53:51] Copying files...
+[INFO]-[2020/04/10 12:53:51] Total 50 files processed
+[INFO]-[2020/04/10 12:53:51] Copying files...
+[INFO]-[2020/04/10 12:53:51] Total 50 files processed
+[INFO]-[2020/04/10 12:53:51] Copying files...
+[INFO]-[2020/04/10 12:53:51] Total 50 files processed
+[INFO]-[2020/04/10 12:53:51] Total 100 files processed
+[INFO]-[2020/04/10 12:53:51] Total 100 files processed
+[INFO]-[2020/04/10 12:53:51] Total 100 files processed
+[INFO]-[2020/04/10 12:53:51] Total 100 files processed
+[INFO]-[2020/04/10 12:53:51] Total 150 files processed
+[INFO]-[2020/04/10 12:53:51] Total 150 files processed
+[INFO]-[2020/04/10 12:53:51] Total 200 files processed
+[INFO]-[2020/04/10 12:53:51] Total 200 files processed
+[INFO]-[2020/04/10 12:53:51] Total 250 files processed
+[INFO]-[2020/04/10 12:53:51] Total 250 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 300 files processed
+[INFO]-[2020/04/10 12:53:51] Total 350 files processed
+[INFO]-[2020/04/10 12:53:51] Total 350 files processed
+[INFO]-[2020/04/10 12:53:51] Total 400 files processed
+[INFO]-[2020/04/10 12:53:51] Total 400 files processed
+[INFO]-[2020/04/10 12:53:51] Total 450 files processed
+[INFO]-[2020/04/10 12:53:51] Total 450 files processed
+[INFO]-[2020/04/10 12:53:51] Total 500 files processed
+[INFO]-[2020/04/10 12:53:51] Total 500 files processed
+[INFO]-[2020/04/10 12:53:51] Total 500 files processed
+[INFO]-[2020/04/10 12:53:51] Total 500 files processed
+[ERROR]-[2020/04/10 12:53:51] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/css
+[WARNING]-[2020/04/10 12:53:51] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/css/typolab.min.css
+[INFO]-[2020/04/10 12:53:51] Total 550 files processed
+[ERROR]-[2020/04/10 12:53:51] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/css
+[WARNING]-[2020/04/10 12:53:51] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/css/typolab.min.css
+[INFO]-[2020/04/10 12:53:51] Total 550 files processed
+[ERROR]-[2020/04/10 12:53:51] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/less
+[WARNING]-[2020/04/10 12:53:51] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/less/index.html
+[INFO]-[2020/04/10 12:53:52] Total 550 files processed
+[ERROR]-[2020/04/10 12:53:51] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/less
+[WARNING]-[2020/04/10 12:53:51] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/themes/kalium/inc/lib/laborator/typolab/assets/less/index.html
+[INFO]-[2020/04/10 12:53:52] Total 550 files processed
+[INFO]-[2020/04/10 12:53:52] Total 600 files processed
+[INFO]-[2020/04/10 12:53:52] Total 600 files processed
+[INFO]-[2020/04/10 12:53:52] Total 650 files processed
+[INFO]-[2020/04/10 12:53:52] Total 650 files processed
+[INFO]-[2020/04/10 12:53:52] Total 700 files processed
+[INFO]-[2020/04/10 12:53:52] Total 700 files processed
+[INFO]-[2020/04/10 12:53:52] Total 750 files processed
+[INFO]-[2020/04/10 12:53:52] Total 750 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 800 files processed
+[INFO]-[2020/04/10 12:53:52] Total 850 files processed
+[INFO]-[2020/04/10 12:53:52] Total 850 files processed
+[INFO]-[2020/04/10 12:53:52] Total 900 files processed
+[INFO]-[2020/04/10 12:53:52] Total 900 files processed
+[INFO]-[2020/04/10 12:53:52] Total 950 files processed
+[INFO]-[2020/04/10 12:53:52] Total 950 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1000 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1050 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1050 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1100 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1100 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1150 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1150 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1200 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1250 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1250 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1300 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1300 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1300 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1300 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:52] Total 1350 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1400 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1400 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1450 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1450 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1500 files processed
+[INFO]-[2020/04/10 12:53:52] Total 1500 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1550 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1550 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1550 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1550 files processed
+[ERROR]-[2020/04/10 12:53:53] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/advanced-custom-fields-pro/pro
+[WARNING]-[2020/04/10 12:53:53] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/plugins/advanced-custom-fields-pro/pro/updates.php
+[ERROR]-[2020/04/10 12:53:53] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/advanced-custom-fields-pro/pro/locations
+[WARNING]-[2020/04/10 12:53:53] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/plugins/advanced-custom-fields-pro/pro/locations/class-acf-location-block.php
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[ERROR]-[2020/04/10 12:53:53] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/advanced-custom-fields-pro/pro
+[WARNING]-[2020/04/10 12:53:53] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/plugins/advanced-custom-fields-pro/pro/updates.php
+[ERROR]-[2020/04/10 12:53:53] Files: Can not create directory /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/advanced-custom-fields-pro/pro/locations
+[WARNING]-[2020/04/10 12:53:53] Can't get the destination of /home/nocovidcrna6678/public_html/wp-content/plugins/advanced-custom-fields-pro/pro/locations/class-acf-location-block.php
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1600 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1650 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1650 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1650 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1650 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1700 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1700 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1700 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1700 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1750 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1750 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1800 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1800 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1850 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1900 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1950 files processed
+[INFO]-[2020/04/10 12:53:53] Total 1950 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2000 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2000 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2000 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2000 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2050 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2050 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2100 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2100 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2100 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2100 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2150 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2150 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2150 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2150 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2200 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2200 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2250 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2250 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2300 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2300 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2350 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2350 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2400 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2450 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2450 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2500 files processed
+[INFO]-[2020/04/10 12:53:53] Total 2500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2550 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2550 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2600 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2600 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2650 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2650 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2650 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2650 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2700 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2700 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2750 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2750 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2800 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2800 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2850 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2850 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2900 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2900 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2900 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2900 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2950 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2950 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2950 files processed
+[INFO]-[2020/04/10 12:53:54] Total 2950 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3000 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3000 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3050 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3050 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3200 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3200 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3250 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3250 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3350 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3350 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3350 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3350 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3400 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3400 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3450 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3450 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:54] Total 3500 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3550 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3550 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3600 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3600 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3600 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3600 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3650 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3650 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3650 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3650 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3700 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3700 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3700 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3700 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3750 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3800 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3800 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3800 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3800 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3850 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3900 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3900 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:53:55] Total 3950 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4000 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4050 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4050 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4050 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4050 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4100 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4100 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4150 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4150 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4200 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4200 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4250 files processed
+[INFO]-[2020/04/10 12:53:55] Total 4250 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4300 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4300 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4300 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4300 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4350 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4350 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4400 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4450 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4500 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4500 files processed
+[INFO]-[2020/04/10 12:53:56] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:56] Total 4550 files processed
+[INFO]-[2020/04/10 12:53:56] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:56] Total 4550 files processed
+[INFO]-[2020/04/10 12:53:56] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:56] Total 4600 files processed
+[INFO]-[2020/04/10 12:53:56] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:56] Total 4600 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4650 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4700 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4700 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4750 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4750 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4800 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4800 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4850 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4850 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4850 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4850 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4900 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4900 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4950 files processed
+[INFO]-[2020/04/10 12:53:56] Total 4950 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5000 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5000 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5050 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5050 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5100 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5100 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5100 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5100 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5150 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5150 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5150 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5150 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5200 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5200 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5250 files processed
+[INFO]-[2020/04/10 12:53:56] Total 5250 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5300 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5300 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5350 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5350 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5400 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5400 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5400 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5400 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5450 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5450 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5450 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5450 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5500 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5500 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5550 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5550 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5600 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5600 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5600 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5600 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5650 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5650 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5700 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5700 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5750 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5750 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5800 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5800 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5850 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5850 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5850 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5850 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5900 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5900 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5950 files processed
+[INFO]-[2020/04/10 12:53:57] Total 5950 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6000 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6000 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6000 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6000 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6050 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6050 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6050 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6050 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6100 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6100 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6150 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6150 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6200 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6200 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6200 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6200 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6250 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6250 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6300 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6300 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6350 files processed
+[INFO]-[2020/04/10 12:53:57] Total 6350 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6400 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6400 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6400 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6400 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6450 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6450 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6450 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6450 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6500 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6500 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6500 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6500 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6550 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6550 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6550 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6550 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6600 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6600 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6600 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6600 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6650 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6650 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6650 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6650 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6700 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6700 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6750 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6750 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6800 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6800 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6800 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6800 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6850 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6850 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6850 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6850 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6900 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6900 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6950 files processed
+[INFO]-[2020/04/10 12:53:58] Total 6950 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7000 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7000 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7050 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7050 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7100 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7100 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7100 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7100 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7150 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7150 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7200 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7200 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7200 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7200 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7250 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7250 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7300 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7300 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7350 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7350 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7350 files processed
+[INFO]-[2020/04/10 12:53:58] Total 7350 files processed
+[INFO]-[2020/04/10 12:53:58] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7400 files processed
+[INFO]-[2020/04/10 12:53:58] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7400 files processed
+[INFO]-[2020/04/10 12:53:59] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7400 files processed
+[INFO]-[2020/04/10 12:53:59] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7400 files processed
+[INFO]-[2020/04/10 12:53:59] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7450 files processed
+[INFO]-[2020/04/10 12:53:59] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:53:59] Total 7450 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7500 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7500 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7550 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7550 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7600 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7600 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7600 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7600 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7650 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7650 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7700 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7700 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7750 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7750 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7800 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7800 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7850 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7850 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7900 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7900 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7900 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7900 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7950 files processed
+[INFO]-[2020/04/10 12:53:59] Total 7950 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8000 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8000 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8050 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8050 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8100 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8150 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8150 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8200 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8200 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8250 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8250 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8300 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8350 files processed
+[INFO]-[2020/04/10 12:53:59] Total 8350 files processed
+[INFO]-[2020/04/10 12:55:22] DB External Copy: wp65_actionscheduler_actions already exists, dropping it first
+[INFO]-[2020/04/10 12:55:22] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:55:22] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:22] DB External Copy: wp65_actionscheduler_actions already exists, dropping it first
+[INFO]-[2020/04/10 12:55:22] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_actions
+[INFO]-[2020/04/10 12:55:22] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_actions as nocovidcrna6678_staging.wp65_actionscheduler_actions from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_claims already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_claims already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_claims
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_groups already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_groups already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_groups
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_groups as nocovidcrna6678_staging.wp65_actionscheduler_groups from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_logs already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_actionscheduler_logs already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_actionscheduler_logs
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_actionscheduler_logs as nocovidcrna6678_staging.wp65_actionscheduler_logs from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_commentmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_commentmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_commentmeta
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:23] DB External Copy: wp65_comments already exists, dropping it first
+[INFO]-[2020/04/10 12:55:23] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_comments
+[INFO]-[2020/04/10 12:55:23] DB External Copy: INSERT nocovidcrna6678_47.wp65_comments as nocovidcrna6678_staging.wp65_comments from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_layerslider already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_layerslider already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_layerslider_revisions already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_layerslider_revisions already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_layerslider_revisions
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_links already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_links already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_links
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:55:24] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:24] DB External Copy: wp65_options already exists, dropping it first
+[INFO]-[2020/04/10 12:55:24] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_options
+[INFO]-[2020/04/10 12:55:24] DB External Copy: INSERT nocovidcrna6678_47.wp65_options as nocovidcrna6678_staging.wp65_options from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:25] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:55:25] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:55:25] DB External Copy: wp65_postmark_log already exists, dropping it first
+[INFO]-[2020/04/10 12:55:25] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmark_log
+[INFO]-[2020/04/10 12:55:25] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:25] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:55:25] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:25] DB External Copy: wp65_postmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:25] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_postmeta
+[INFO]-[2020/04/10 12:55:25] DB External Copy: INSERT nocovidcrna6678_47.wp65_postmeta as nocovidcrna6678_staging.wp65_postmeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_posts already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_posts
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_posts as nocovidcrna6678_staging.wp65_posts from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_revslider_css already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css as nocovidcrna6678_staging.wp65_revslider_css from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:27] DB External Copy: wp65_revslider_css_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:27] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_css_bkp
+[INFO]-[2020/04/10 12:55:27] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_css_bkp as nocovidcrna6678_staging.wp65_revslider_css_bkp from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_layer_animations already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_layer_animations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_layer_animations_bkp
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_navigations already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_navigations already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_navigations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:55:28] DB External Copy: wp65_revslider_navigations_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:28] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_navigations_bkp
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_sliders already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:55:29] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_sliders already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders
+[INFO]-[2020/04/10 12:55:29] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_sliders as nocovidcrna6678_staging.wp65_revslider_sliders from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_sliders_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_sliders_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_sliders_bkp
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_slides already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:55:29] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_slides already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides
+[INFO]-[2020/04/10 12:55:29] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_slides as nocovidcrna6678_staging.wp65_revslider_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:55:29] DB External Copy: wp65_revslider_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:29] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_slides_bkp
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_revslider_static_slides already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_revslider_static_slides already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_revslider_static_slides as nocovidcrna6678_staging.wp65_revslider_static_slides from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_revslider_static_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_revslider_static_slides_bkp already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_revslider_static_slides_bkp
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_term_relationships already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_relationships
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_relationships as nocovidcrna6678_staging.wp65_term_relationships from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_term_taxonomy already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_term_taxonomy already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_term_taxonomy
+[INFO]-[2020/04/10 12:55:30] DB External Copy: INSERT nocovidcrna6678_47.wp65_term_taxonomy as nocovidcrna6678_staging.wp65_term_taxonomy from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_termmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:55:30] DB External Copy: wp65_termmeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:30] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_termmeta
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_terms already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_terms already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_terms
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_terms as nocovidcrna6678_staging.wp65_terms from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_usermeta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_usermeta
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_usermeta as nocovidcrna6678_staging.wp65_usermeta from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_users already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_users already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_users
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_users as nocovidcrna6678_staging.wp65_users from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_wpforms_tasks_meta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[INFO]-[2020/04/10 12:55:31] DB External Copy: wp65_wpforms_tasks_meta already exists, dropping it first
+[INFO]-[2020/04/10 12:55:31] DB External Copy: CREATE table nocovidcrna6678_staging.wp65_wpforms_tasks_meta
+[INFO]-[2020/04/10 12:55:31] DB External Copy: INSERT nocovidcrna6678_47.wp65_wpforms_tasks_meta as nocovidcrna6678_staging.wp65_wpforms_tasks_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:32] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[INFO]-[2020/04/10 12:55:32] DB Search & Replace:  Table wp65_actionscheduler_actions 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:32] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:55:32] DB Search & Replace:  Table wp65_actionscheduler_groups 0 to 5000 records
+[INFO]-[2020/04/10 12:55:33] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[INFO]-[2020/04/10 12:55:33] DB Search & Replace:  Table wp65_actionscheduler_logs 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:33] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[INFO]-[2020/04/10 12:55:33] DB Search & Replace:  Table wp65_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:34] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[INFO]-[2020/04/10 12:55:34] DB Search & Replace:  Table wp65_options 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:34] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:55:34] DB Search & Replace:  Table wp65_postmeta 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_postmeta 5000 to 10000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_posts 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_revslider_css 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[INFO]-[2020/04/10 12:55:35] DB Search & Replace:  Table wp65_revslider_css_bkp 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:36] DB Search & Replace:  Table wp65_revslider_sliders 0 to 5000 records
+[INFO]-[2020/04/10 12:55:36] DB Search & Replace:  Table wp65_revslider_sliders 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:37] DB Search & Replace:  Table wp65_revslider_slides 0 to 5000 records
+[INFO]-[2020/04/10 12:55:37] DB Search & Replace:  Table wp65_revslider_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:37] DB Search & Replace:  Table wp65_revslider_static_slides 0 to 5000 records
+[INFO]-[2020/04/10 12:55:37] DB Search & Replace:  Table wp65_revslider_static_slides 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_term_relationships 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_term_taxonomy 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_terms 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_terms 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 12:55:38] DB Search & Replace:  Table wp65_usermeta 0 to 5000 records
+[INFO]-[2020/04/10 12:55:39] DB Search & Replace:  Table wp65_users 0 to 5000 records
+[INFO]-[2020/04/10 12:55:39] DB Search & Replace:  Table wp65_users 0 to 5000 records
+[INFO]-[2020/04/10 12:55:39] DB Search & Replace:  Table wp65_wpforms_tasks_meta 0 to 5000 records
+[INFO]-[2020/04/10 12:55:39] DB Search & Replace:  Table wp65_wpforms_tasks_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:55:39] Scanning / for files
+[INFO]-[2020/04/10 12:55:39] Scanning / for files
+[INFO]-[2020/04/10 12:55:39] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:55:39] Scanning wp-content folder /home/nocovidcrna6678/public_html/wp-content
+[INFO]-[2020/04/10 12:55:40] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:55:40] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2020/04/10 12:55:40] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:55:40] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2020/04/10 12:55:40] Copying files...
+[INFO]-[2020/04/10 12:55:40] Total 50 files processed
+[INFO]-[2020/04/10 12:55:40] Copying files...
+[INFO]-[2020/04/10 12:55:40] Total 50 files processed
+[INFO]-[2020/04/10 12:55:41] Total 100 files processed
+[INFO]-[2020/04/10 12:55:41] Total 100 files processed
+[INFO]-[2020/04/10 12:55:41] Total 150 files processed
+[INFO]-[2020/04/10 12:55:41] Total 150 files processed
+[INFO]-[2020/04/10 12:55:41] Total 200 files processed
+[INFO]-[2020/04/10 12:55:41] Total 200 files processed
+[INFO]-[2020/04/10 12:55:41] Total 250 files processed
+[INFO]-[2020/04/10 12:55:41] Total 250 files processed
+[INFO]-[2020/04/10 12:55:41] Total 300 files processed
+[INFO]-[2020/04/10 12:55:41] Total 300 files processed
+[INFO]-[2020/04/10 12:55:42] Total 350 files processed
+[INFO]-[2020/04/10 12:55:42] Total 350 files processed
+[INFO]-[2020/04/10 12:55:42] Total 400 files processed
+[INFO]-[2020/04/10 12:55:42] Total 400 files processed
+[INFO]-[2020/04/10 12:55:42] Total 450 files processed
+[INFO]-[2020/04/10 12:55:42] Total 450 files processed
+[INFO]-[2020/04/10 12:55:42] Total 500 files processed
+[INFO]-[2020/04/10 12:55:42] Total 500 files processed
+[INFO]-[2020/04/10 12:55:43] Total 550 files processed
+[INFO]-[2020/04/10 12:55:43] Total 550 files processed
+[INFO]-[2020/04/10 12:55:43] Total 600 files processed
+[INFO]-[2020/04/10 12:55:43] Total 600 files processed
+[INFO]-[2020/04/10 12:55:43] Total 650 files processed
+[INFO]-[2020/04/10 12:55:43] Total 650 files processed
+[INFO]-[2020/04/10 12:55:43] Total 700 files processed
+[INFO]-[2020/04/10 12:55:43] Total 700 files processed
+[INFO]-[2020/04/10 12:55:43] Total 750 files processed
+[INFO]-[2020/04/10 12:55:43] Total 750 files processed
+[INFO]-[2020/04/10 12:55:44] Total 800 files processed
+[INFO]-[2020/04/10 12:55:44] Total 800 files processed
+[INFO]-[2020/04/10 12:55:44] Total 850 files processed
+[INFO]-[2020/04/10 12:55:44] Total 850 files processed
+[INFO]-[2020/04/10 12:55:44] Total 900 files processed
+[INFO]-[2020/04/10 12:55:44] Total 900 files processed
+[INFO]-[2020/04/10 12:55:44] Total 950 files processed
+[INFO]-[2020/04/10 12:55:44] Total 950 files processed
+[INFO]-[2020/04/10 12:55:44] Total 1000 files processed
+[INFO]-[2020/04/10 12:55:44] Total 1000 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1050 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1050 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1100 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1100 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1150 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1150 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1200 files processed
+[INFO]-[2020/04/10 12:55:45] Total 1200 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1250 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1250 files processed
+[INFO]-[2020/04/10 12:55:46] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:55:46] Total 1300 files processed
+[INFO]-[2020/04/10 12:55:46] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-Newport-News-Hampton-2020-04-02.pdf
+[INFO]-[2020/04/10 12:55:46] Total 1300 files processed
+[INFO]-[2020/04/10 12:55:46] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:55:46] Total 1350 files processed
+[INFO]-[2020/04/10 12:55:46] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/uploads/2020/04/NOCOVID-toolkit-for-Local-Leaders-v5.0-2020-04-08.pdf
+[INFO]-[2020/04/10 12:55:46] Total 1350 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1400 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1400 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1450 files processed
+[INFO]-[2020/04/10 12:55:46] Total 1450 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1500 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1500 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1550 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1550 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1600 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1600 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1650 files processed
+[INFO]-[2020/04/10 12:55:47] Total 1650 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1700 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1700 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1750 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1750 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1800 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1800 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1850 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1850 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1900 files processed
+[INFO]-[2020/04/10 12:55:48] Total 1900 files processed
+[INFO]-[2020/04/10 12:55:49] Total 1950 files processed
+[INFO]-[2020/04/10 12:55:49] Total 1950 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2000 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2000 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2050 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2050 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2100 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2100 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2150 files processed
+[INFO]-[2020/04/10 12:55:49] Total 2150 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2200 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2200 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2250 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2250 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2300 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2300 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2350 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2350 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2400 files processed
+[INFO]-[2020/04/10 12:55:50] Total 2400 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2450 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2450 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2500 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2500 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2550 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2550 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2600 files processed
+[INFO]-[2020/04/10 12:55:51] Total 2600 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2650 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2650 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2700 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2700 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2750 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2750 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2800 files processed
+[INFO]-[2020/04/10 12:55:52] Total 2800 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2850 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2850 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2900 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2900 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2950 files processed
+[INFO]-[2020/04/10 12:55:53] Total 2950 files processed
+[INFO]-[2020/04/10 12:55:53] Total 3000 files processed
+[INFO]-[2020/04/10 12:55:53] Total 3000 files processed
+[INFO]-[2020/04/10 12:55:53] Total 3050 files processed
+[INFO]-[2020/04/10 12:55:53] Total 3050 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3100 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3150 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3200 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3200 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3250 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3250 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:55:54] Total 3300 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3350 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3350 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3400 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3400 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3450 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3450 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3500 files processed
+[INFO]-[2020/04/10 12:55:55] Total 3500 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3550 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3550 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3600 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3600 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3650 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3650 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3700 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3700 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3750 files processed
+[INFO]-[2020/04/10 12:55:56] Total 3750 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3800 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3800 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3850 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3850 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3900 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3900 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3950 files processed
+[INFO]-[2020/04/10 12:55:57] Total 3950 files processed
+[INFO]-[2020/04/10 12:55:57] Total 4000 files processed
+[INFO]-[2020/04/10 12:55:57] Total 4000 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4050 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4050 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4100 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4100 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4150 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4150 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4200 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4200 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4250 files processed
+[INFO]-[2020/04/10 12:55:58] Total 4250 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4300 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4300 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4350 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4350 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4400 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4400 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4450 files processed
+[INFO]-[2020/04/10 12:55:59] Total 4450 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4500 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4500 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4550 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4550 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4600 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4600 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4650 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4650 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4700 files processed
+[INFO]-[2020/04/10 12:56:00] Total 4700 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4750 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4750 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4800 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4800 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4850 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4850 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4900 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4900 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4950 files processed
+[INFO]-[2020/04/10 12:56:01] Total 4950 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5000 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5000 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5050 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5050 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5100 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5100 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5150 files processed
+[INFO]-[2020/04/10 12:56:02] Total 5150 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5200 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5200 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5250 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5250 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5300 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5300 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5350 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5350 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5400 files processed
+[INFO]-[2020/04/10 12:56:03] Total 5400 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5450 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5450 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5500 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5500 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5550 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5550 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5600 files processed
+[INFO]-[2020/04/10 12:56:04] Total 5600 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5650 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5650 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5700 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5700 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5750 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5750 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5800 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5800 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5850 files processed
+[INFO]-[2020/04/10 12:56:05] Total 5850 files processed
+[INFO]-[2020/04/10 12:56:06] Total 5900 files processed
+[INFO]-[2020/04/10 12:56:06] Total 5900 files processed
+[INFO]-[2020/04/10 12:56:06] Total 5950 files processed
+[INFO]-[2020/04/10 12:56:06] Total 5950 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6000 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6000 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6050 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6050 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6100 files processed
+[INFO]-[2020/04/10 12:56:06] Total 6100 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6150 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6150 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6200 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6200 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6250 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6250 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6300 files processed
+[INFO]-[2020/04/10 12:56:07] Total 6300 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6350 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6350 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6400 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6400 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6450 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6450 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6500 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6500 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6550 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6550 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6600 files processed
+[INFO]-[2020/04/10 12:56:08] Total 6600 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6650 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6650 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6700 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6700 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6750 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6750 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6800 files processed
+[INFO]-[2020/04/10 12:56:09] Total 6800 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6850 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6850 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6900 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6900 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6950 files processed
+[INFO]-[2020/04/10 12:56:10] Total 6950 files processed
+[INFO]-[2020/04/10 12:56:10] Total 7000 files processed
+[INFO]-[2020/04/10 12:56:10] Total 7000 files processed
+[INFO]-[2020/04/10 12:56:10] Total 7050 files processed
+[INFO]-[2020/04/10 12:56:10] Total 7050 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7100 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7100 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7150 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7150 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7200 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7200 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7250 files processed
+[INFO]-[2020/04/10 12:56:11] Total 7250 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7300 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7300 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7350 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7350 files processed
+[INFO]-[2020/04/10 12:56:12] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map
+[INFO]-[2020/04/10 12:56:12] Total 7400 files processed
+[INFO]-[2020/04/10 12:56:12] Trying to copy big file: /home/nocovidcrna6678/public_html/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map -> /home/nocovidcrna6678/staging.nocovid.us/wp-content/plugins/PDFEmbedder-premium/js/pdfjs/pdf-4.4.1.worker.js.map
+[INFO]-[2020/04/10 12:56:12] Total 7400 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7450 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7450 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7500 files processed
+[INFO]-[2020/04/10 12:56:12] Total 7500 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7550 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7550 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7600 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7600 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7650 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7650 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7700 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7700 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7750 files processed
+[INFO]-[2020/04/10 12:56:13] Total 7750 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7800 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7800 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7850 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7850 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7900 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7900 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7950 files processed
+[INFO]-[2020/04/10 12:56:14] Total 7950 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8000 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8000 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8050 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8050 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8100 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8100 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8150 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8150 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8200 files processed
+[INFO]-[2020/04/10 12:56:15] Total 8200 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8250 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8250 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8300 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8300 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8350 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8350 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8400 files processed
+[INFO]-[2020/04/10 12:56:16] Total 8400 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8450 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8450 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8500 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8500 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8550 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8550 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8600 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8600 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8650 files processed
+[INFO]-[2020/04/10 12:56:17] Total 8650 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8700 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8700 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8750 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8750 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8800 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8800 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8850 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8850 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8900 files processed
+[INFO]-[2020/04/10 12:56:18] Total 8900 files processed
+[INFO]-[2020/04/10 12:56:19] Total 8950 files processed
+[INFO]-[2020/04/10 12:56:19] Total 8950 files processed
+[INFO]-[2020/04/10 12:56:19] Total 9000 files processed
+[INFO]-[2020/04/10 12:56:19] Total 9000 files processed
+[INFO]-[2020/04/10 12:56:19] Total 9050 files processed
+[INFO]-[2020/04/10 12:56:19] Total 9050 files processed
+[WARNING]-[2020/04/10 12:56:19] File doesn't exist /home/nocovidcrna6678/public_html/
+[WARNING]-[2020/04/10 12:56:19] File doesn't exist /home/nocovidcrna6678/public_html/
+[INFO]-[2020/04/10 12:56:19] Copying files finished
+[INFO]-[2020/04/10 12:56:19] Copying files finished
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step1: Updating siteurl and homeurl in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step1: Updating siteurl and homeurl to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step1: Updating siteurl and homeurl in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step1: Updating siteurl and homeurl to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step2: Updating row wpstg_is_staging_site in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step2: Updating row wpstg_is_staging_site in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step2: Successful
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step3: Updating rewrite_rules in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step3: Updating rewrite_rules in wp65_options 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step4: Updating db prefix in wp65_usermeta. 
+[INFO]-[2020/04/10 12:56:20] Preparing Data Step4: Updating db prefix in wp65_usermeta. 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step5: Updating table_prefix in /home/nocovidcrna6678/staging.nocovid.us/wp-config.php to wp65_
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step5: Updating table_prefix in /home/nocovidcrna6678/staging.nocovid.us/wp-config.php to wp65_
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wp65_options 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wp65_options 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step7: Finished successfully
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step8: Updating permalink_structure in wp65_options 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step8: Updating permalink_structure in wp65_options 
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step8: Finished successfully
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2020/04/10 12:56:21] Preparing Data Step9: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step10: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://staging.nocovid.us/
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step11: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step12: Updating db prefix in wp65_options.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step12: Skipped
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step12: Updating db prefix in wp65_options.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step12: Skipped
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step13: Updating upload_path wp65_options.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step13: Updating upload_path wp65_options.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step13: Skipped
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:22] Preparing Data Step14: Finished successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step15: Change database credentials in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data: Finished Step 15 successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step15: Change database credentials in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data: Finished Step 15 successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step16: Remove UPLOADS in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step16: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step 16: Finished successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step16: Remove UPLOADS in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step16: UPLOADS not defined in wp-config.php. Skipping this step.
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step 16: Finished successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: Finished successfully
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: Update UPLOADS constant in wp-config.php
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: UPLOADS not defined in wp-config.php. Creating new entry.
+[INFO]-[2020/04/10 12:56:23] Preparing Data Step17: Finished successfully
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:56:24] Preparing Data Step20: Preserve Data in wp65_options
+[INFO]-[2020/04/10 12:56:24] Preparing Data Step20: Successful!
+[INFO]-[2020/04/10 12:56:24] Preparing Data Step20: Preserve Data in wp65_options
+[INFO]-[2020/04/10 12:56:24] Preparing Data Step20: Successful!
+[]-[] 
+[]-[] 
+[INFO]-[2020/04/10 12:56:24] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 12:56:24] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 12:56:24] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 12:56:24] Finish: The job finished!
+[INFO]-[2020/04/10 12:56:24] Finish: Deleting clone job's cache files...
+[INFO]-[2020/04/10 12:56:24] Finish: Clone job's cache files have been deleted!
+[INFO]-[2020/04/10 12:56:24] Finish: Verifying existing clones...
+[INFO]-[2020/04/10 12:56:24] Finish: The job finished!

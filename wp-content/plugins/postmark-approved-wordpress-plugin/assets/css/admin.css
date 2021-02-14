@@ -1,0 +1,69 @@
+.logo-bar {
+    background-color: #ffde00;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    line-height: 1;
+}
+
+.logo-bar a {
+    display: inline-block;
+}
+
+.footnote {
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+input[type=text] {
+    width: 300px;
+}
+
+.nav-tab {
+    cursor: pointer;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.footnote {
+    font-size: 13px;
+}
+input[type=text] {
+    width: 300px;
+}
+
+#wpbody-content > div.wrap > div.tab-content.tab-log.active > table.pm-log {
+  margin-bottom: 0;
+  margin-top: 3%;
+  overflow: hidden;
+  overflow-y: scroll;
+  display: block;
+  border-collapse: collapse;
+}
+
+#wpbody-content > div.wrap > div.tab-content.tab-log.active > table.pm-log > tbody > tr:nth-child(odd) {
+  background-color: white;
+}
+
+#wpbody-content > div.wrap > div.tab-content.tab-log.active > table.pm-log > tbody > tr > td {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  padding-left: 0.5em
+}
+
+#wpbody-content > div.wrap > div.tab-content.tab-log.active > table > thead > tr > th {
+  font-size: 1.2em;
+  padding-bottom: 0.7em;
+}
+
+.load-more {
+  display: flex;
+  justify-content: center;
+}

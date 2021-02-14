@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Dividers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dividers">
+            <rect id="Rectangle-14" fill="#ECECEC" x="0" y="0" width="32" height="32" rx="2"></rect>
+            <g id="Group-4" transform="translate(6.000000, 5.000000)" fill="#9B9B9B">
+                <rect id="Rectangle-7-Copy-4" x="0" y="3" width="21" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-7-Copy-5" x="0" y="19" width="21" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-7-Copy-4" x="0" y="22" width="21" height="1" rx="0.5"></rect>
+                <rect id="Rectangle-7-Copy-3" x="0" y="0" width="21" height="1" rx="0.5"></rect>
+            </g>
+            <g id="Group" transform="translate(-2.000000, 14.000000)" stroke-linecap="square" stroke="#000000">
+                <g id="Line">
+                    <polyline points="0.5 4.23215574 4.5 0.76310704 8 3.79852466 11.5355339 0.732289828 15.0357143 3.76786388 18.5360493 0.732155744 22.0360527 3.76757633 25.5360556 0.732156163 29.0360557 3.76757381 32.5360557 0.732156167 35.5833587 3.37496681"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

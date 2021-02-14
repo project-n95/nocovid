@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Auto Type</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Auto-Type">
+            <path d="M2,0 L29,0 L29,0 C30.6568542,-3.04359188e-16 32,1.34314575 32,3 L32,29 L32,29 C32,30.6568542 30.6568542,32 29,32 L3,32 L3,32 C1.34314575,32 2.02906125e-16,30.6568542 0,29 L0,2 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-12" fill="#ECECEC"></path>
+            <g id="Group" transform="translate(7.000000, 7.000000)" fill="#4A4A4A">
+                <path d="M8.13753582,15.1496746 L6.74307545,10.9327549 L2.9608405,10.9327549 L1.48997135,15.1496746 L2.9226361,15.1496746 L2.9226361,15.5206074 L0,15.5206074 L0,15.1496746 L0.897803247,15.1496746 L5.76886342,1.73752711 L7.33524355,1.73752711 L12.1489971,15.1496746 L13.0276982,15.1496746 L13.0276982,15.5206074 L6.78127985,15.5206074 L6.78127985,15.1496746 L8.13753582,15.1496746 Z M4.92836676,5.38828633 L3.13276027,10.5032538 L6.59025788,10.5032538 L4.92836676,5.38828633 Z" id="A-|"></path>
+                <polygon id="Path" opacity="0.459999979" points="17.2550143 18 18 18 18 7 18 0 17.2550143 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
